@@ -47,10 +47,12 @@ p {
 
 .img-hero {
     width: 100%;
+    height: auto;
 }
 
 .img-logo {
     width: 40%;
+    height: auto;
 }
 /* Horizontal Rule Style */
 hr {
@@ -58,4 +60,4 @@ border-color: #7d97ad;
 border-width: 3px;
 margin-bottom: 20px;
 margin-top: 5px;
-}
+}Ma
