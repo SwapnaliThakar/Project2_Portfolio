@@ -1,6 +1,10 @@
 /* Style sets the font family */
-h1, h2, h3, h4, p {
-    font-family: 'Roboto', sans-serif;
+h1,
+h2,
+h3,
+h4,
+p {
+    font-family: "Roboto", sans-serif;
 }
 
 /* Style specific to h1 */
@@ -60,4 +64,4 @@ border-color: #7d97ad;
 border-width: 3px;
 margin-bottom: 20px;
 margin-top: 5px;
-}Ma
+}
